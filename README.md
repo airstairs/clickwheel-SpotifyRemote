@@ -8,3 +8,4 @@ clickwheel retro jailbroken
 ![rec](recording.gif)  
 
 
+pro tip... close and restart shit gimme second :(
