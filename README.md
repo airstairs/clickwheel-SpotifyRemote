@@ -1,2 +1,10 @@
 # clickwheel-SpotifyRemote
-lte iPodpn
+
+clickwheel retro jailbroken 
+
+
+![ic](ic.png)  
+
+![rec](recording.gif)  
+
+
