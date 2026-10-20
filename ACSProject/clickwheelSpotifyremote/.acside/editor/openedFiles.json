@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/clickwheelSpotifyremote/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 41,
+          "index": 53,
+          "line": 1
+        },
+        "start": {
+          "column": 41,
+          "index": 53,
+          "line": 1
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/clickwheelSpotifyremote/app/src/main/res/values/strings.xml"
+}
